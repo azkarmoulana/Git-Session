@@ -18,3 +18,9 @@ ember.js
 html
 css
 php
+laravel
+es6
+mysql
+mongodb
+postgresql
+
