@@ -9,6 +9,12 @@ ruby
 c#
 ASP.net
 javascript
+node.js
+angular.js
+react.js
+express.js
+vanilla.js
+ember.js
 html
 css
 php
