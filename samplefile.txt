@@ -30,3 +30,5 @@ R
 sails.js
 saas
 laravel
+django
+JQuery
