@@ -23,4 +23,8 @@ es6
 mysql
 mongodb
 postgresql
+jade
+go
+scala
+R
 
